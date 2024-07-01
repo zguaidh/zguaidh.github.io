@@ -399,6 +399,38 @@ section {
     line-height: 1.6;
 }
 
+/* Team Members Section */
+.about .team-members {
+    margin-top: 30px;
+}
+
+.about .team-members h3 {
+    color: #8c1818;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.about .team-members ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about .team-members ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.about .team-members ul li a {
+    color: #8c1818;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.about .team-members ul li a:hover {
+    text-decoration: underline;
+}
+
 .about img {
     width: 100%;
     height: auto;
